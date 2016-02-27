@@ -1,0 +1,26 @@
+_repo: The-Life-of-Thomas-Telford-Civil-Engineer-With-an-Introductory-History-of-Roads-and-Travelling-__939
+creator:
+  author:
+    agent_name: Smiles, Samuel
+    birthdate: 1812
+    deathdate: 1904
+    gutenberg_agent_id: '224'
+    url: http://www.gutenberg.org/2009/agents/224
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Smiles
+description: ''
+gutenberg_issued: '1997-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '939'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Roads -- Great Britain'
+- !lcsh 'Civil engineers -- Great Britain -- Biography'
+- !lcc 'TA'
+- !lcsh 'Telford, Thomas, 1757-1834'
+title: "The Life of Thomas Telford, Civil Engineer\r\nWith an Introductory History\
+  \ of Roads and Travelling in Great Britain"
+url: http://www.gutenberg.org/ebooks/939

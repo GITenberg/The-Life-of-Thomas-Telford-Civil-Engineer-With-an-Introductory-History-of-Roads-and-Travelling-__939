@@ -1,5 +1,5 @@
 _repo: The-Life-of-Thomas-Telford-Civil-Engineer-With-an-Introductory-History-of-Roads-and-Travelling-__939
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -27,6 +27,7 @@ subjects:
 - !lcsh 'Civil engineers -- Great Britain -- Biography'
 - !lcc 'TA'
 - !lcsh 'Telford, Thomas, 1757-1834'
+- GITenberg
 title: "The Life of Thomas Telford, Civil Engineer\r\nWith an Introductory History\
   \ of Roads and Travelling in Great Britain"
 url: http://www.gutenberg.org/ebooks/939
